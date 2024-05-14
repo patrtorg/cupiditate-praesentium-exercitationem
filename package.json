@@ -1,13 +1,13 @@
 {
   "name": "@patrtorg/cupiditate-praesentium-exercitationem",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "PatrDen",
   "license": "MIT",
   "dependencies": {
-    "@dramaorg/esse-praesentium-eligendi": "^2.2.8",
+    "@dramaorg/esse-praesentium-eligendi": "^2.2.9",
     "@juigorg/sit-nam-neque": "^1.0.11",
     "@kollorg/dicta-itaque-nemo": "^1.1.10",
     "@patrtorg/a-ad-expedita": "^1.0.5",
